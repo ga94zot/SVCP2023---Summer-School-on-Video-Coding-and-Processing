@@ -3,6 +3,8 @@ layout: home
 list_title: "News"
 --- -->
 
+![TUM campus](/assets/images/tumcampus.jpeg)
+
 # Test
 
 The **8th ITG/VDE Graduate Summer School on Video Compression and Processing** is aiming at providing a forum for informal knowledge exchange and discussion of innovative research ideas among doctoral students working in the field of image and video communication and image signal processing. 
@@ -30,11 +32,11 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ## Organizers 
 
-![VDE logo](/assets/images/tum.png) 
-![ITG logo](/assets/images/tum.png)
+![TUM logo](/assets/images/tum.png) 
+![TUM logo](/assets/images/tum.png)
 
 ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
 
-[![TUM logo](/assets/images/lmt.png)](https://www.ce.cit.tum.de/lmt/startseite/)
+[![LMT logo](/assets/images/lmt.png)](https://www.ce.cit.tum.de/lmt/startseite/)
