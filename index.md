@@ -3,8 +3,8 @@ layout: home
 list_title: "News"
 --- -->
 
-<!-- ![TUM campus](/assets/images/tumcampus.jpeg width="200" height="160") -->
-<img src="/assets/images/tumcampus.jpeg" width="1050" height="400">
+![TUM campus](/assets/images/tumcampus.jpeg)
+<!-- <img src="/assets/images/tumcampus.jpeg" width="1050" height="400"> -->
 
 # Test
 
