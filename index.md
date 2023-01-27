@@ -37,4 +37,4 @@ ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
 
-[![TUM logo](/assets/images/tum.png)](https://www.technoteam.de/](https://www.ce.cit.tum.de/lmt/startseite/)
+[![TUM logo](/assets/images/tum.png)](https://www.ce.cit.tum.de/lmt/startseite/)
