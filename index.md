@@ -1,17 +1,22 @@
-<!-- ---
+---
 layout: home
 list_title: "News"
---- -->
+---
 
-# Test
+![TUM campus](/assets/images/tumcampus.jpeg)
+<!-- <img src="/assets/images/tumcampus.jpeg" width="1050" height="400"> -->
 
-The **7th ITG/VDE Graduate Summer School on Video Compression and Processing** is aiming at providing a forum for informal knowledge exchange and discussion of innovative research ideas among doctoral students working in the field of image and video communication and image signal processing. 
+
+
+<!-- # Test -->
+
+The **8th ITG/VDE Graduate Summer School on Video Compression and Processing** is aiming at providing a forum for informal knowledge exchange and discussion of innovative research ideas among doctoral students working in the field of image and video communication and image signal processing. 
 The summer school atmosphere is intended to be very informal and less restrictive than a typical workshop or conference, thus stimulating discussions and inspiring joint research among the participating PhD students. 
 
 ## Important Dates
 
-* Pre-School Event: evening of **03 July 2022** 
-* Summer School: **04 -- 05 July 2022** 
+* Pre-School Event: evening of **03 July 2023** 
+* Summer School: **04 -- 05 July 2023** 
 
 ## Topics of Interest
 
@@ -30,11 +35,11 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ## Organizers 
 
-![VDE logo](/assets/images/vde.png) 
-![ITG logo](/assets/images/itg.png)
+![TUM logo](/assets/images/tum.png) 
+![TUM logo](/assets/images/tum.png)
 
 ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
 
-[![technoteam logo](/assets/images/technoteam.png)](https://www.technoteam.de/)
+[![LMT logo](/assets/images/lmt.png)](https://www.ce.cit.tum.de/lmt/startseite/)
